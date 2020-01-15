@@ -1,0 +1,77 @@
+*{
+  box-sizing:border-box;
+}
+
+
+
+header{
+  height: 50px;
+  position:fixed;
+  top: 0px;
+  z-index: 10;
+}
+header img{
+  width:  50px;
+  height: 50px;
+
+
+}
+.main-title{
+  height: 600px;
+  text-align: center; 
+}
+.big-title h1 {
+ font-family: 'Allura', cursive;
+ font-size: 80px;
+ display: inline-block;
+ color:black;
+ text-decoration: none;
+ margin-top:200px; 
+}
+
+.top-title {
+  font-family: 'Allura', cursive;
+  text-align: center;
+  font-size: 2em;
+  line-height: 6;
+  display: block;
+  padding-top: 200px;
+  border-bottom-width: thin;
+  border-bottom-style: solid;
+  border-bottom-color: #000000;
+
+}
+.blog-main{
+  padding-top: 400px;
+
+}
+.blog-main img{
+  height: 800px;
+  width: 600px;
+  padding-top: 400px;
+  padding-left: 20px;
+
+
+}
+.blog-main h3{
+  font-family: "Hannari";
+  padding-left: 0px;
+  font-size: 25px;
+
+}
+.blog-main p{
+  font-family: "Sawarabi Mincho";
+  font-size: 25px;
+  padding-left: 40px;
+  padding-top:80px;
+}
+footer{
+  height:5px;
+
+
+
+}
+.fab{
+  color:#4dabf7;
+  font-size: 1.7em;
+}
