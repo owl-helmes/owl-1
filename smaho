@@ -1,0 +1,22 @@
+@media screen and (max-width: 769px){
+
+header img{
+  display: none;
+
+}
+.big-title h1{
+  font-size: 120px
+  margin:center;
+}
+.blog-main{
+	
+}
+.blog-main img{
+	height: 700px;
+	width: 350px;
+}
+.blog-main h3{
+	font-size: 30px;
+	padding-left: 27px;
+}
+}
