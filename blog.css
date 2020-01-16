@@ -43,13 +43,14 @@ header img{
 }
 .blog-main{
   padding-top: 400px;
+  text-align:  center;
 
 }
 .blog-main img{
   height: 800px;
-  width: 600px;
+  width: 426px;
   padding-top: 400px;
-  padding-left: 20px;
+  padding-left: px;
 
 
 }
@@ -62,7 +63,7 @@ header img{
 .blog-main p{
   font-family: "Sawarabi Mincho";
   font-size: 25px;
-  padding-left: 40px;
+  padding-left: px;
   padding-top:80px;
 }
 footer{
